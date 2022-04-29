@@ -1,5 +1,7 @@
 # AutoDownloadManga
 
+<img src="AutoDownloadManga.png" width="1000"/>
+
 Description: Automatically download series of a manga from www.manhuaren.com .
 
 Tutorial video: https://www.youtube.com/watch?v=m3jtTOR24UI.<br/>
